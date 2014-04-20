@@ -3,7 +3,8 @@ boardgamer.io
 
 JSON API for boardgame data
 
-GET /games/:id =>
+
+GET /games/:id
 
 ```
 {
