@@ -5,6 +5,7 @@ JSON API for boardgame data
 
 GET /games/:id =>
 
+```
 {
   id
   minPlayers
@@ -13,3 +14,4 @@ GET /games/:id =>
   imageURL
   description
 }
+```
